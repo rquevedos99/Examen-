@@ -1,0 +1,13 @@
+.hero-section {
+    background-image: url(../img/Hero\ seccion.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.hero-section h1 {
+    font-size: 4rem;
+    color:rgb(250, 249, 251);
+}
+.footer {
+    margin-top: 40px;
+}
